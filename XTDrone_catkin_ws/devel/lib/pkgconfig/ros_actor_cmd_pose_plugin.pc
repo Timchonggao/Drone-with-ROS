@@ -1,0 +1,8 @@
+prefix=/home/mouwang/catkin_ws/devel
+
+Name: ros_actor_cmd_pose_plugin
+Description: Description of ros_actor_cmd_pose_plugin
+Version: 1.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: roscpp gazebo_ros gazebo_plugins

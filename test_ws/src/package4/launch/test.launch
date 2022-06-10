@@ -1,0 +1,4 @@
+<launch>
+    <node pkg="package4" type="static_tf_pub_p.py" name="tf_sub" />
+    <node pkg="package4" type="static_sub_tf_p.py" name="tf_pub"/>
+</launch>

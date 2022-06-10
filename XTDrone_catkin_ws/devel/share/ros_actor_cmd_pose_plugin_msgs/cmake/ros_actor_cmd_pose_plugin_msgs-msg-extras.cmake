@@ -1,0 +1,2 @@
+set(ros_actor_cmd_pose_plugin_msgs_MESSAGE_FILES "/home/mouwang/catkin_ws/src/gazebo_ros_actor_plugin/gazebo_ros_actor_cmd_plugin_msgs/msg/ActorInfo.msg;/home/mouwang/catkin_ws/src/gazebo_ros_actor_plugin/gazebo_ros_actor_cmd_plugin_msgs/msg/ActorMotion.msg")
+set(ros_actor_cmd_pose_plugin_msgs_SERVICE_FILES "/home/mouwang/catkin_ws/src/gazebo_ros_actor_plugin/gazebo_ros_actor_cmd_plugin_msgs/srv/ToggleActorWaving.srv")

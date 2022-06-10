@@ -1,0 +1,9 @@
+<launch>
+
+    <!-- 设置参数 -->
+    <param name="robot_description" textfile="/home/mouwang/test_ws/src/package6/urdf/urdf/test.urdf" />
+
+    <!-- 启动 rviz -->
+    <node pkg="rviz" type="rviz" name="rviz" args="-d /home/mouwang/test_ws/src/package6/config/test.rviz" />
+
+</launch>

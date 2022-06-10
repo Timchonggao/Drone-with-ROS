@@ -1,0 +1,8 @@
+prefix=/home/mouwang/catkin_ws/devel
+
+Name: ros_actor_cmd_pose_plugin_msgs
+Description: Description of ros_actor_cmd_pose_plugin_msgs
+Version: 1.0.0
+Cflags: -I/home/mouwang/catkin_ws/devel/include
+Libs: -L${prefix}/lib 
+Requires: std_msgs

@@ -1,0 +1,8 @@
+prefix=/home/mouwang/test_ws/devel
+
+Name: package5
+Description: Description of package5
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

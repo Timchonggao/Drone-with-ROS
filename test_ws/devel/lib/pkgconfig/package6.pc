@@ -1,0 +1,8 @@
+prefix=/home/mouwang/test_ws/devel
+
+Name: package6
+Description: Description of package6
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

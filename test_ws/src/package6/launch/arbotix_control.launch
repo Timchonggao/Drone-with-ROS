@@ -1,0 +1,4 @@
+<node name="arbotix" pkg="arbotix_python" type="arbotix_driver" output="screen">
+     <rosparam file="/home/mouwang/test_ws/src/package6/config/control.yaml" command="load" />
+     <param name="sim" value="true" />
+</node>
